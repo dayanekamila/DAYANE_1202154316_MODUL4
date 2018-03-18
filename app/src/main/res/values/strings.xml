@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DAYANE_1202154316_MODUL4</string>
+    <string-array name="namaMahasiswa">
+        <item>Aprilianti</item>
+        <item>Exa Parmita</item>
+        <item>Shinthya Putri</item>
+        <item>Levie Syafira</item>
+        <item>Kamal Ihsan</item>
+        <item>Bimo Abdi</item>
+        <item>Varian Recet</item>
+        <item>Hafizh Abdul</item>
+        <item>Aulia Ravi</item>
+        <item>Ida Nurhaida</item>
+        <item>Anna Silvana</item>
+        <item>Quintana Dewi</item>
+        <item>Pipih Sopiah</item>
+        <item>Dasni</item>
+
+    </string-array>
+</resources>
